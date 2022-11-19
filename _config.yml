@@ -58,7 +58,7 @@ author:
   url: https://github.com/vszhub/
   email: vszhub@gmail.com
 
-comment:
-  provider: "disqus"
+comments:
+  provider: disqus
   disqus:
-    shortname: "hyeonjin6530"
+    shortname: hyeonjin6530
