@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "POST 1."
+title: POST 1.
 tags: gitblog
 math: true
-date: 2022-11-20 04:22 +0800
+date: 2022-11-20 04:22 
 comments: true
 ---
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
