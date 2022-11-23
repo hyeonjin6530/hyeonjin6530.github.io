@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: hyeonjin6530
   card: summary
 logo: logo.png
 social:
   name: HyeonJin Hwang
   links:
-    - https://twitter.com/vszhub
+    - https://twitter.com/
     - https://github.com/hyeonjin6530
 google_site_verification: xxxxx
 lang: en

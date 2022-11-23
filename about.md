@@ -1,8 +1,19 @@
 ---
 layout: page
-title: About
+title: About ME!
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**이름:** 황현진
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**생년월일:** 2001년 06월 05일
+
+**학교:** 국민대학교
+
+**학과:** 소프트웨어학부
+
+**학번:** 20223158
+
+**Instagram:** @h__jx_xn
+
+**SITE:** [GitHub](https://github.com/hyeonjin6530)
+
