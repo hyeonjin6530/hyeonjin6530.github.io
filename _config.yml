@@ -1,6 +1,6 @@
 # Setup
 title: HyeonJin's GitBlog
-description: welcome :)
+description: welcome to my gitBlog :)
 url: https://hyeonjin6530.github.io/
 avatar: /avatar.jpeg
 paginate: 5
@@ -33,7 +33,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: HyeonJin Hwang
   links:
     - https://twitter.com/vszhub
     - https://github.com/hyeonjin6530
@@ -54,9 +54,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: HyeonJin Hwang
+  url: https://github.com/hyeonjin6530
+  email: alicehwang99@gmail.com
 
 comments:
   provider: disqus
