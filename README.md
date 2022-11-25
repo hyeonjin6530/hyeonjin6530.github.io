@@ -26,7 +26,19 @@
     _posts라는 파일에 markdown을 이용하여 글을 작성하였다.
     이 과정 속에서 포스팅이 올라가지 않는 오류를 겪었었는데, 이 경우에는 포스팅의 제목에 yyyy-mm-dd의 형식으로 날짜를 정확하게 입력하였더니 해결되었다.
 
-6. 위와 같은 모든 bulid를 깃블로그 사이트에 적용하기
+6. google analytics 기능 추가하기
+    google analytics에 접속한 한 다음 '측정 시작'을 누른다. 그리고 4가지 단계를 진행하면서 자신의 gitblog 주소를 입력한다.
+    그 다음 _config.yml 파일에 아래의 코드를 입력하면 자동으로 연동이 되어 사용자, 사용 평균 시간 등을 확인할 수 있다.
+    # Analytics
+    analytics:
+    provider               : google
+                            # false (default), "google", "google-universal", "google-gtag", "custom"
+    google:
+        tracking_id          : G-GLECBP0BSM
+        anonymize_ip         : false 
+
+
+7. 위와 같은 모든 bulid를 깃블로그 사이트에 적용하기
     위에서 설명한 모든 수정 내용을 사이트에 적용하기 위해서
     첫 번째로, vscode를 이용하여 코드를 수정하고 저장하였다.
     두 번째로, cmd 창에서 bundle exec jekyll serve 라는 명령어를 입력하여 얻은 http://127.0.0.1:4000 라는 사이트에 접속해 수정된 내용이 올바르게 적용되어 있는지 확인하였다.
