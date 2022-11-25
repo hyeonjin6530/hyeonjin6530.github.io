@@ -1,7 +1,7 @@
 20223158 황현진 
 유레카프로젝트 - 개인 GIT BLOG 과제
 
-1. 테마 선정
+1. gitblog 생성 및 테마 설정
     나는 http://jekyllthemes.org/ 라는 사이트에서 'Not Pure Poole' 이라는 테마의 원격 저장소를 나의 원격 저장소로 포크해왔다. 이렇게 포크를 하는 과정 속에서 나의 레포지토리의 이름을 hyeonjin6530.github.io로 바꾸었다. 그리고 git clone을 하여 쉽고 빠르게 내가 원하는 테마의 깃블로그를 생성하였다.
 
 2. favicon 추가
