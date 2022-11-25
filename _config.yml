@@ -1,6 +1,6 @@
 # Setup
 title: HyeonJin's GitBlog
-description: welcome to my gitBlog :)
+description: welcome to hyeonjin's gitBlog :)        유레카프로젝트_깃블로그 제작하기
 url: https://hyeonjin6530.github.io/
 avatar: https://i.pinimg.com/564x/65/d0/29/65d0291efb4baa21dc76324d9e303c79.jpg
 paginate: 5
@@ -46,12 +46,6 @@ sass:
 
 # Options
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
 # Specify the author for blog posts
 author:
   name: HyeonJin Hwang
@@ -62,3 +56,11 @@ comments:
   provider: disqus
   disqus:
     shortname: hyeonjin6530
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-GLECBP0BSM"
+    anonymize_ip         : # true, false (default)

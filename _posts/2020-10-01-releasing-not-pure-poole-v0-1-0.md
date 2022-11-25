@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
+title: POST 4. Google Analytics이란?
 author: Songzi Vong
 tags:
 - jekyll theme
