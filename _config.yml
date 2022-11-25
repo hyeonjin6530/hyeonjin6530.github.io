@@ -64,3 +64,5 @@ analytics:
   google:
     tracking_id          : G-GLECBP0BSM
     anonymize_ip         : false 
+
+future: true
