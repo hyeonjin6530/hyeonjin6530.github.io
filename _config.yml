@@ -1,6 +1,6 @@
 # Setup
 title: HyeonJin's GitBlog
-description: welcome to hyeonjin's gitBlog :)        유레카프로젝트_깃블로그 제작하기
+description: 유레카프로젝트_깃블로그 제작하기
 url: https://hyeonjin6530.github.io/
 avatar: https://i.pinimg.com/564x/65/d0/29/65d0291efb4baa21dc76324d9e303c79.jpg
 paginate: 5
@@ -66,3 +66,13 @@ comments:
   provider: disqus
   disqus:
     shortname: hyeonjin6530
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GLECBP0BSM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GLECBP0BSM');
+</script>
