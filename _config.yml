@@ -46,6 +46,16 @@ sass:
 
 # Options
 
+# Analytics
+analytics:
+  provider               : google
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : G-GLECBP0BSM
+    anonymize_ip         : false 
+
+future: true
+
 # Specify the author for blog posts
 author:
   name: HyeonJin Hwang
@@ -56,13 +66,3 @@ comments:
   provider: disqus
   disqus:
     shortname: hyeonjin6530
-
-# Analytics
-analytics:
-  provider               : google
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : G-GLECBP0BSM
-    anonymize_ip         : false 
-
-future: true
