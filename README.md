@@ -48,6 +48,7 @@
         tracking_id          : G-GLECBP0BSM
         anonymize_ip         : false 
 
+이외의 내가 겪은 오류와 같이 자세한 내용은 [깃블로그](https://hyeonjin6530.github.io/2022/11/26/post-4/)에서 확인해볼 수 있다.
 </br>
 
 :pushpin: **위와 같은 모든 bulid를 깃블로그 사이트에 적용하기**    
