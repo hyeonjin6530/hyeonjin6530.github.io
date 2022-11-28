@@ -16,6 +16,6 @@ title: About ME!
 **Instagram:** @h__jx_xn
 
 **SITE:** [GitHub](https://github.com/hyeonjin6530)
-</br>
+
 
 ![코딩하는 나](https://i.pinimg.com/564x/d4/6c/3d/d46c3d325dc7b4f3a51aa7fdd12936d1.jpg)
